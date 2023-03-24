@@ -4,6 +4,7 @@ import { Instagram, Spotify, Youtube, Apple } from 'react-bootstrap-icons';
 const Home = () => {
   return (
     <div>
+      <h1>Home</h1>
       <img src={band1} alt="Band members"></img>
       <div id="social-media-container">
         <a
