@@ -22,7 +22,7 @@ const Music = () => {
             </a>
             <p>Cosmic Outlaw (Single)</p>
           </Col>
-          <Col>
+          <Col md={6} sm={12}>
             <a
               href="https://supersonicoctopus.bandcamp.com/album/age-of-the-octopus"
               target="blank"

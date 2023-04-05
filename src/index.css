@@ -1,3 +1,6 @@
 * {
-  border: pink solid 1px;
+}
+
+#router-link {
+  text-decoration: none;
 }
