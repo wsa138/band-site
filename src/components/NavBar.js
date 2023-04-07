@@ -16,31 +16,23 @@ const NavBar = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav>
-            <Nav.Link>
-              <Link to="/" id="router-link">
-                Home
-              </Link>
+            <Nav.Link as={Link} eventKey="0" to="/">
+              Home
             </Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link>
-              <Link to="music" id="router-link">
-                Music
-              </Link>
+            <Nav.Link as={Link} eventKey="1" to="/music">
+              Music
             </Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link>
-              <Link to="about" id="router-link">
-                About
-              </Link>
+            <Nav.Link as={Link} eventKey="2" to="/about">
+              About
             </Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link>
-              <Link to="contact" id="router-link">
-                Contact
-              </Link>
+            <Nav.Link as={Link} eventKey="3" to="/contact">
+              Contact
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
