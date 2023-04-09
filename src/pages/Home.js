@@ -15,39 +15,39 @@ const Home = () => {
         id="social-media-container"
         className="fixed-bottom justify-content-center"
       >
-        <Col xs={2} className="link-icons">
+        <Col xs={2} className="link-icons-container">
           <a
             href="https://open.spotify.com/artist/20OK0k4WgurVGcnzKqctmP?si=z0LPmM_GQ7CXG7ffVuhXVA"
             target="blank"
           >
-            <Spotify />
+            <Spotify size={24} />
           </a>
         </Col>
-        <Col xs={2} className="link-icons">
+        <Col xs={2} className="link-icons-container">
           <a
             href="https://music.apple.com/us/artist/super-sonic-octopus/1678256425"
             target="blank"
           >
-            <Apple />
+            <Apple size={24} />
           </a>
         </Col>
-        <Col xs={2} className="link-icons">
+        <Col xs={2} className="link-icons-container">
           <a
             href="https://www.youtube.com/channel/UCy3rHoH21yasUswT7KDYY1w/featured"
             target="blank"
           >
-            <Youtube />
+            <Youtube size={24} />
           </a>
         </Col>
-        <Col xs={2} className="link-icons">
+        <Col xs={2} className="link-icons-container">
           <a
             href="https://www.instagram.com/supersonicoctopus/?hl=en"
             target="blank"
           >
-            <Instagram />
+            <Instagram size={24} />
           </a>
         </Col>
-        <Col xs={2} className="link-icons">
+        <Col xs={2} className="link-icons-container">
           <a
             href="https://music.amazon.com/artists/B0BZ2S54HS/super-sonic-octopus"
             target="blank"

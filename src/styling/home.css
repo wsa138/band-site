@@ -3,9 +3,10 @@
   height: auto;
 }
 
-.link-icons {
+.link-icons-container {
   display: flex;
   justify-content: center;
+  padding-bottom: 2.5em;
 }
 
 #image-row {
