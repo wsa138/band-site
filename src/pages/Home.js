@@ -5,8 +5,8 @@ import '../styling/home.css';
 
 const Home = () => {
   return (
-    <Container>
-      <Row>
+    <Container id="home-container">
+      <Row id="image-row">
         <Col xs={12}>
           <img className="img-fluid" src={band2} alt="Band members"></img>
         </Col>
