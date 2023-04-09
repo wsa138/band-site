@@ -1,19 +1,14 @@
 .link-icons-container {
   display: flex;
   justify-content: center;
-  padding-bottom: 2.5em;
+  padding-top: 0.5em;
 }
 
-#image-row {
-  width: 100vw;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%);
-  padding-left: 1em;
+a {
+  color: red;
 }
 
 #footer-container {
-  border: green solid 3px;
+  background-color: #1f2023;
+  height: 3em;
 }
