@@ -5,6 +5,7 @@ import About from './pages/About';
 import NavBar from './components/NavBar';
 import Music from './pages/Music';
 import Contact from './pages/Contact';
+import FooterNav from './components/FooterNav';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="music" element={<Music />}></Route>
         <Route path="contact" element={<Contact />}></Route>
       </Routes>
+      <FooterNav />
     </div>
   );
 }

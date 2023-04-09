@@ -2,7 +2,7 @@ const Contact = () => {
   return (
     <div>
       <h1>Contact</h1>
-      <div>
+      <div id="test">
         Email us at <strong>supersonicoctopus@gmail.com</strong>
       </div>
     </div>

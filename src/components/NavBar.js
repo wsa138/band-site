@@ -7,7 +7,8 @@ const NavBar = () => {
   return (
     <Navbar
       collapseOnSelect
-      bg="light"
+      bg="dark"
+      variant="dark"
       expand="md"
       fixed="top
     "

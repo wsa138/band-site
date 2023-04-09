@@ -1,6 +1,7 @@
-.img-fluid {
-  width: 100%;
-  height: auto;
+.link-icons-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2.5em;
 }
 
 #image-row {
@@ -11,4 +12,8 @@
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   padding-left: 1em;
+}
+
+#footer-container {
+  border: green solid 3px;
 }
