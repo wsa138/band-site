@@ -1,0 +1,9 @@
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
+.link-icons {
+  display: flex;
+  justify-content: center;
+}
