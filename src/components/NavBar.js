@@ -8,7 +8,7 @@ const NavBar = () => {
   return (
     <Navbar collapseOnSelect bg="light" expand="md">
       <Container>
-        <Navbar.Brand>
+        <Navbar.Brand id="navbarBrand">
           <Link to="/" id="router-link">
             Super Sonic Octopus
           </Link>
