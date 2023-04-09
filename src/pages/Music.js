@@ -36,6 +36,34 @@ const Music = () => {
             </a>
             <p>Age of the Octopus (Album)</p>
           </Col>
+          <Col md={6} sm={12}>
+            <a
+              href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
+              target="blank"
+            >
+              <Image
+                width="300px"
+                thumbnail
+                src={cosmicArt}
+                alt="Cosmic Outlaw single artwork"
+              ></Image>
+            </a>
+            <p>Cosmic Outlaw (Single)</p>
+          </Col>
+          <Col md={6} sm={12}>
+            <a
+              href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
+              target="blank"
+            >
+              <Image
+                width="300px"
+                thumbnail
+                src={cosmicArt}
+                alt="Cosmic Outlaw single artwork"
+              ></Image>
+            </a>
+            <p>Cosmic Outlaw (Single)</p>
+          </Col>
         </Row>
       </Container>
     </div>

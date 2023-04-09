@@ -11,8 +11,8 @@ const NavBar = () => {
       bg="dark"
       variant="dark"
       expand="md"
-      fixed="top
-    "
+      sticky="top"
+      id="navbar"
     >
       <Container>
         <Navbar.Brand id="navbarBrand">
