@@ -1,18 +1,8 @@
-.img-fluid {
-  width: 100%;
-  height: auto;
-}
-
-#image-row {
-  width: 100vw;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%);
-  padding-left: 1.375em;
-}
-
-#home-container {
+#container {
   height: 100vh;
+  background-image: url('../images/banner.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 2000px 400px;
 }
