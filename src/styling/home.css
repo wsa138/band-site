@@ -10,5 +10,9 @@
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
-  padding-left: 1em;
+  padding-left: 1.375em;
+}
+
+#home-container {
+  height: 100vh;
 }
