@@ -1,3 +1,32 @@
 #music-container {
   padding-top: 2em;
+  height: 100vh;
+}
+
+.music-card {
+  padding-bottom: 1em;
+}
+
+.music-card p {
+  margin-top: 0.5em;
+}
+
+.music-card img {
+  width: 90%;
+}
+
+@media (max-width: 768px) {
+  #music-container {
+    height: 100%;
+    padding-bottom: 2em;
+  }
+  .music-card img {
+    width: 70%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .music-card img {
+    width: 75%;
+  }
 }

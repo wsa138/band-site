@@ -9,7 +9,7 @@ const Music = () => {
     <div id="music-container">
       <Container>
         <Row className="text-center">
-          <Col md={6} sm={12}>
+          <Col md={6} sm={12} className="music-card">
             <a
               href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
               target="blank"
@@ -23,7 +23,7 @@ const Music = () => {
             </a>
             <p>Cosmic Outlaw (Single)</p>
           </Col>
-          <Col md={6} sm={12}>
+          <Col md={6} sm={12} className="music-card">
             <a
               href="https://supersonicoctopus.bandcamp.com/album/age-of-the-octopus"
               target="blank"
@@ -36,34 +36,6 @@ const Music = () => {
               ></Image>
             </a>
             <p>Age of the Octopus (Album)</p>
-          </Col>
-          <Col md={6} sm={12}>
-            <a
-              href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
-              target="blank"
-            >
-              <Image
-                width="300px"
-                thumbnail
-                src={cosmicArt}
-                alt="Cosmic Outlaw single artwork"
-              ></Image>
-            </a>
-            <p>Cosmic Outlaw (Single)</p>
-          </Col>
-          <Col md={6} sm={12}>
-            <a
-              href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
-              target="blank"
-            >
-              <Image
-                width="300px"
-                thumbnail
-                src={cosmicArt}
-                alt="Cosmic Outlaw single artwork"
-              ></Image>
-            </a>
-            <p>Cosmic Outlaw (Single)</p>
           </Col>
         </Row>
       </Container>
