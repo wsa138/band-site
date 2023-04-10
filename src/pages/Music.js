@@ -2,10 +2,11 @@ import { Container, Row, Col, Image } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ageAlbum from '../images/age-of-the-octopus.jpg';
 import cosmicArt from '../images/cosmic-single-art.webp';
+import '../styling/music.css';
 
 const Music = () => {
   return (
-    <div>
+    <div id="music-container">
       <Container>
         <Row className="text-center">
           <Col md={6} sm={12}>
