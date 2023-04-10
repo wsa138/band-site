@@ -11,4 +11,10 @@ a {
 #footer-container {
   background-color: #1f2023;
   height: 3em;
+
+  width: 100vw;
+}
+
+#footer {
+  border: pink solid 1px;
 }

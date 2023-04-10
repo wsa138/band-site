@@ -4,7 +4,7 @@ import '../styling/footerNav.css';
 
 const FooterNav = () => {
   return (
-    <Container id="footer-container" className="fixed-bottom ">
+    <Container fluid id="footer-container" className="fixed-bottom ">
       <Row id="social-media-container" className="justify-content-center">
         <Col xs={2} className="link-icons-container">
           <a
