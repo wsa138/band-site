@@ -8,26 +8,22 @@ const Carousel = () => {
     {
       img: John2,
       member: 'John Swikata',
-      about:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+      about: `John mastered the science of sound and discovered that his bass could create ripples in the fabric of space-time, allowing him to explore the cosmos. He used his skills to push the boundaries of what was possible and create a new form of cosmic music.`,
     },
     {
       img: Joe2,
       member: 'Joe Blau',
-      about:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+      about: `Joe's love for sound and physics led him to discover a way to create interdimensional portals with his drumming. He explored the mysteries of space and time, using sound to travel to distant worlds and meet beings from other dimensions. With every beat of his drums, Joe pushed the boundaries of what was possible, using sound to navigate the universe and beyond.`,
     },
     {
       img: Mike2,
       member: 'Mike Robbins',
-      about:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+      about: `Mike's fascination with the physics of sound led him to discover interdimensional travel through his guitar playing. He explored the universe and met wondrous beings, using his music to bridge the gap between worlds and unlock its secrets. With every riff and solo, Mike continued to push the boundaries of what was possible.`,
     },
     {
       img: Billy2,
       member: 'Billy Addesso',
-      about:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+      about: `Billy created a guitar that translated the radiation of celestial bodies into music. His cosmic guitar connected humanity to the universe, taking him on a journey through the stars and inspiring others to explore the mysteries of the cosmos.`,
     },
   ];
 
