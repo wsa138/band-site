@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/band-site/static/css/main.4e5f289a.css",
-    "main.js": "/band-site/static/js/main.61f48fcc.js",
+    "main.js": "/band-site/static/js/main.d28a3931.js",
     "static/media/age-of-the-octopus.jpg": "/band-site/static/media/age-of-the-octopus.11b0d2048087c9124e6a.jpg",
     "static/media/John2.jpg": "/band-site/static/media/John2.c6a851b8536a559fb488.jpg",
     "static/media/Joe2.jpg": "/band-site/static/media/Joe2.afd4171fa398f51f0d13.jpg",
@@ -13,10 +13,10 @@
     "static/media/Band2.jpg": "/band-site/static/media/Band2.84d26a3d762e38f70387.jpg",
     "index.html": "/band-site/index.html",
     "main.4e5f289a.css.map": "/band-site/static/css/main.4e5f289a.css.map",
-    "main.61f48fcc.js.map": "/band-site/static/js/main.61f48fcc.js.map"
+    "main.d28a3931.js.map": "/band-site/static/js/main.d28a3931.js.map"
   },
   "entrypoints": [
     "static/css/main.4e5f289a.css",
-    "static/js/main.61f48fcc.js"
+    "static/js/main.d28a3931.js"
   ]
 }
