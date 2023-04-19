@@ -1,15 +1,15 @@
 #container {
   height: 100vh;
-  background-image: url('../images/banner.jpg');
+  background-image: url('../images/band5.PNG');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: 2000px 400px;
+  background-size: 800px 1600px;
 }
 
 @media (max-width: 768px) {
   #container {
-    background-image: url('../images/Band2.jpg');
-    background-size: 400px 400px;
+    background-image: url('../images/band5.PNG');
+    background-size: 1000px 2000px;
   }
 }
