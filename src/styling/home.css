@@ -12,3 +12,9 @@
   height: 100vh;
   width: 100vw;
 }
+
+@media (max-width: 768px) {
+  #myVideo {
+    right: 1px;
+  }
+}
