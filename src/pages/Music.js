@@ -8,7 +8,7 @@ const Music = () => {
   return (
     <div id="music-container">
       <Container>
-        <Row className="text-center">
+        <Row className="text-center" id="music-card-container">
           <Col md={6} sm={12} className="music-card">
             <a
               href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
