@@ -1,20 +1,33 @@
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
   width: 100vw;
+
+  animation-name: grow;
+  animation-duration: 5s;
+  /*animation-iteration-count: infinite;*/
+}
+
+@keyframes grow {
+  0% {
+    width: 10vw;
+  }
+  25% {
+  }
+  50% {
+  }
+  75% {
+  }
+  100% {
+    width: 100vw;
+  }
 }
 
 #container {
   background-color: black;
-  height: 100vh;
   width: 100vw;
-}
-
-@media (max-width: 768px) {
-  #myVideo {
-    right: 1px;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  margin: 0;
 }
