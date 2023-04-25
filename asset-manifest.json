@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b214d3f3.css",
-    "main.js": "/static/js/main.8b9a4a92.js",
+    "main.css": "/static/css/main.910a7c31.css",
+    "main.js": "/static/js/main.300f762f.js",
     "static/media/cosmicoutlawvid.mov": "/static/media/cosmicoutlawvid.b703e382fadb5009a9ce.mov",
-    "static/media/cosmicoutlawvidmp4.mp4": "/static/media/cosmicoutlawvidmp4.4cb3919bba0dd34543c2.mp4",
     "static/media/age-of-the-octopus.jpg": "/static/media/age-of-the-octopus.11b0d2048087c9124e6a.jpg",
     "static/media/John2.jpg": "/static/media/John2.c6a851b8536a559fb488.jpg",
     "static/media/Joe2.jpg": "/static/media/Joe2.afd4171fa398f51f0d13.jpg",
@@ -12,13 +11,12 @@
     "static/media/Band3.jpg": "/static/media/Band3.54d0c100b4d506691a03.jpg",
     "static/media/Billy4.jpg": "/static/media/Billy4.3a001d58b3ce03475b96.jpg",
     "static/media/cosmic-single-art.webp": "/static/media/cosmic-single-art.bd2052e6796a2ca40280.webp",
-    "static/media/cosmicoutlawvidwebm.webm": "/static/media/cosmicoutlawvidwebm.7b4f2369a39b4dfdbac6.webm",
     "index.html": "/index.html",
-    "main.b214d3f3.css.map": "/static/css/main.b214d3f3.css.map",
-    "main.8b9a4a92.js.map": "/static/js/main.8b9a4a92.js.map"
+    "main.910a7c31.css.map": "/static/css/main.910a7c31.css.map",
+    "main.300f762f.js.map": "/static/js/main.300f762f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b214d3f3.css",
-    "static/js/main.8b9a4a92.js"
+    "static/css/main.910a7c31.css",
+    "static/js/main.300f762f.js"
   ]
 }
