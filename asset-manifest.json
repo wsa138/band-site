@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.267d0241.css",
-    "main.js": "/static/js/main.45dc4f1c.js",
+    "main.css": "/static/css/main.db46235c.css",
+    "main.js": "/static/js/main.67dbfbde.js",
     "static/media/SSO-KANALOA.jpg": "/static/media/SSO-KANALOA.ae58347088cc4984760c.jpg",
     "static/media/cosmicoutlawvid.mov": "/static/media/cosmicoutlawvid.b703e382fadb5009a9ce.mov",
     "static/media/SSO-COSMIC-OUTLAW.jpg": "/static/media/SSO-COSMIC-OUTLAW.75810bf04b609a59c636.jpg",
     "static/media/age-of-the-octopus.jpg": "/static/media/age-of-the-octopus.11b0d2048087c9124e6a.jpg",
     "static/media/John2.jpg": "/static/media/John2.c6a851b8536a559fb488.jpg",
+    "static/media/Joe3.jpg": "/static/media/Joe3.541c3723bc1b849d203b.jpg",
     "static/media/Joe2.jpg": "/static/media/Joe2.afd4171fa398f51f0d13.jpg",
+    "static/media/John3.jpg": "/static/media/John3.af991106f90573dfae9e.jpg",
+    "static/media/Mike3.jpg": "/static/media/Mike3.7ad8fdc324534fa6aeff.jpg",
     "static/media/Mike2.jpg": "/static/media/Mike2.dc78e204478633865caf.jpg",
     "static/media/Billy2.jpg": "/static/media/Billy2.02e7847f27f98712f7c9.jpg",
     "static/media/Band3.jpg": "/static/media/Band3.54d0c100b4d506691a03.jpg",
-    "static/media/Billy4.jpg": "/static/media/Billy4.3a001d58b3ce03475b96.jpg",
+    "static/media/Billy3.jpg": "/static/media/Billy3.3a001d58b3ce03475b96.jpg",
     "index.html": "/index.html",
-    "main.267d0241.css.map": "/static/css/main.267d0241.css.map",
-    "main.45dc4f1c.js.map": "/static/js/main.45dc4f1c.js.map"
+    "main.db46235c.css.map": "/static/css/main.db46235c.css.map",
+    "main.67dbfbde.js.map": "/static/js/main.67dbfbde.js.map"
   },
   "entrypoints": [
-    "static/css/main.267d0241.css",
-    "static/js/main.45dc4f1c.js"
+    "static/css/main.db46235c.css",
+    "static/js/main.67dbfbde.js"
   ]
 }
