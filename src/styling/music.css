@@ -1,6 +1,7 @@
 #music-container {
   padding-top: 2em;
-  height: 100vh;
+  height: 100%;
+  padding-bottom: 2em;
   background-color: black;
 }
 
@@ -19,7 +20,7 @@
 @media (max-width: 768px) {
   #music-container {
     height: 100%;
-    padding-bottom: 4.5em;
+    padding-bottom: 2em;
   }
   .music-card img {
     width: 70%;
