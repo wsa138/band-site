@@ -1,5 +1,6 @@
 import ageAlbum from '../images/age-of-the-octopus.jpg';
-import cosmicArt from '../images/cosmic-single-art.webp';
+import cosmicArt from '../images/SSO-COSMIC-OUTLAW.jpg';
+import kanaloaArt from '../images/SSO-KANALOA.jpg';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
 const MusicCard = () => {
@@ -13,7 +14,7 @@ const MusicCard = () => {
     {
       name: 'Kanaloa (Single)',
       link: 'https://open.spotify.com/track/3kfDz05GkqYKSMhYFnwXbr',
-      art: ageAlbum,
+      art: kanaloaArt,
       description: 'Kanaloa single artwork',
     },
     {
