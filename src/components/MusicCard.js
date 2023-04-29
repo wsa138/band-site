@@ -11,6 +11,12 @@ const MusicCard = () => {
       description: 'Cosmic Outlaw single artwork',
     },
     {
+      name: 'Kanaloa (Single)',
+      link: 'https://open.spotify.com/track/3kfDz05GkqYKSMhYFnwXbr',
+      art: ageAlbum,
+      description: 'Kanaloa single artwork',
+    },
+    {
       name: 'Age of the Octopus (Album)',
       link: 'https://supersonicoctopus.bandcamp.com/album/age-of-the-octopus',
       art: ageAlbum,
