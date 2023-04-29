@@ -6,11 +6,7 @@ import MusicCard from '../components/MusicCard';
 const Music = () => {
   return (
     <div id="music-container">
-      <Container>
-        <Row className="text-center" id="music-card-container">
-          <MusicCard />
-        </Row>
-      </Container>
+      <MusicCard />
     </div>
   );
 };

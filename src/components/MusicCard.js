@@ -7,34 +7,39 @@ const MusicCard = () => {
     {
       name: 'Cosmic Outlaw (Single)',
       link: 'https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ',
-      art: { cosmicArt },
+      art: cosmicArt,
       description: 'Cosmic Outlaw single artwork',
     },
     {
       name: 'Age of the Octopus (Album)',
       link: 'https://supersonicoctopus.bandcamp.com/album/age-of-the-octopus',
-      art: { ageAlbum },
+      art: ageAlbum,
       description: 'Age of the octopus album artwork',
     },
   ];
 
-  return (
-    <div>
+  const createCards = cardArr.map((card) => {
+    return (
       <Col md={6} sm={12} className="music-card">
-        <a
-          href="https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ"
-          target="blank"
-        >
+        <a href={card.link} target="blank">
           <Image
             width="300px"
             thumbnail
-            src={cosmicArt}
-            alt="Cosmic Outlaw single artwork"
+            src={card.art}
+            alt={card.description}
           ></Image>
         </a>
-        <p>Cosmic Outlaw (Single)</p>
+        <p>{card.name}</p>
       </Col>
-    </div>
+    );
+  });
+
+  return (
+    <Container>
+      <Row className="text-center" id="music-card-container">
+        {createCards}
+      </Row>
+    </Container>
   );
 };
 
