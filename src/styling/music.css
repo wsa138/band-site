@@ -19,7 +19,7 @@
 @media (max-width: 768px) {
   #music-container {
     height: 100%;
-    padding-bottom: 1em;
+    padding-bottom: 4.5em;
   }
   .music-card img {
     width: 70%;
