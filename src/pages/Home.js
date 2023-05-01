@@ -4,13 +4,15 @@ import bandVidMov from '../images/cosmicoutlawvid.mov';
 const Home = () => {
   return (
     <div id="container">
-      <video
-        src={bandVidMov}
-        autoplay="true"
-        muted="true"
-        loop="true"
-        id="myVideo"
-      />
+      <a href="https://open.spotify.com/album/2nbNEfBmbMIylHoM37ZU4b">
+        <video
+          src={bandVidMov}
+          autoplay="true"
+          muted="true"
+          loop="true"
+          id="myVideo"
+        />
+      </a>
     </div>
   );
 };
