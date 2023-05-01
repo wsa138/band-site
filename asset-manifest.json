@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.db46235c.css",
-    "main.js": "/static/js/main.67dbfbde.js",
+    "main.css": "/static/css/main.67faa7d4.css",
+    "main.js": "/static/js/main.29f3c415.js",
     "static/media/SSO-KANALOA.jpg": "/static/media/SSO-KANALOA.ae58347088cc4984760c.jpg",
     "static/media/cosmicoutlawvid.mov": "/static/media/cosmicoutlawvid.b703e382fadb5009a9ce.mov",
     "static/media/SSO-COSMIC-OUTLAW.jpg": "/static/media/SSO-COSMIC-OUTLAW.75810bf04b609a59c636.jpg",
@@ -16,11 +16,11 @@
     "static/media/Band3.jpg": "/static/media/Band3.54d0c100b4d506691a03.jpg",
     "static/media/Billy3.jpg": "/static/media/Billy3.3a001d58b3ce03475b96.jpg",
     "index.html": "/index.html",
-    "main.db46235c.css.map": "/static/css/main.db46235c.css.map",
-    "main.67dbfbde.js.map": "/static/js/main.67dbfbde.js.map"
+    "main.67faa7d4.css.map": "/static/css/main.67faa7d4.css.map",
+    "main.29f3c415.js.map": "/static/js/main.29f3c415.js.map"
   },
   "entrypoints": [
-    "static/css/main.db46235c.css",
-    "static/js/main.67dbfbde.js"
+    "static/css/main.67faa7d4.css",
+    "static/js/main.29f3c415.js"
   ]
 }
