@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.67faa7d4.css",
+    "main.css": "/static/css/main.680fd684.css",
     "main.js": "/static/js/main.29f3c415.js",
     "static/media/SSO-KANALOA.jpg": "/static/media/SSO-KANALOA.ae58347088cc4984760c.jpg",
     "static/media/cosmicoutlawvid.mov": "/static/media/cosmicoutlawvid.b703e382fadb5009a9ce.mov",
@@ -16,11 +16,11 @@
     "static/media/Band3.jpg": "/static/media/Band3.54d0c100b4d506691a03.jpg",
     "static/media/Billy3.jpg": "/static/media/Billy3.3a001d58b3ce03475b96.jpg",
     "index.html": "/index.html",
-    "main.67faa7d4.css.map": "/static/css/main.67faa7d4.css.map",
+    "main.680fd684.css.map": "/static/css/main.680fd684.css.map",
     "main.29f3c415.js.map": "/static/js/main.29f3c415.js.map"
   },
   "entrypoints": [
-    "static/css/main.67faa7d4.css",
+    "static/css/main.680fd684.css",
     "static/js/main.29f3c415.js"
   ]
 }
