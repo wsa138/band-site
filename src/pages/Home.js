@@ -7,7 +7,7 @@ const Home = () => {
       <a href="https://open.spotify.com/album/2nbNEfBmbMIylHoM37ZU4b">
         <video
           src={bandVidMov}
-          autoplay="true"
+          autoPlay="true"
           muted="true"
           loop="true"
           id="myVideo"
