@@ -1,6 +1,7 @@
 import ageAlbum from '../images/age-of-the-octopus.jpg';
 import cosmicArt from '../images/SSO-COSMIC-OUTLAW.jpg';
 import kanaloaArt from '../images/SSO-KANALOA.jpg';
+import polarisArt from '../images/SSO-Polaris.jpg';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
 const MusicCard = () => {
@@ -16,6 +17,12 @@ const MusicCard = () => {
       link: 'https://open.spotify.com/track/3kfDz05GkqYKSMhYFnwXbr',
       art: kanaloaArt,
       description: 'Kanaloa single artwork',
+    },
+    {
+      name: 'Polaris (Single)',
+      link: 'https://open.spotify.com/track/0NGXp3WXrCxyB1qb5G9HPU',
+      art: polarisArt,
+      description: 'Polaris single artwork',
     },
     {
       name: 'Age of the Octopus (Album)',
