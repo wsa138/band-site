@@ -1,6 +1,11 @@
+import { useEffect } from 'react';
 import '../styling/contact.css';
 
 const Contact = () => {
+  useEffect(() => {
+    document.title = 'Super Sonic Octopus Contact';
+  });
+
   return (
     <div id="contact-container">
       <h1>Contact</h1>

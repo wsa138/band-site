@@ -2,8 +2,13 @@ import Band3 from '../images/Band3.jpg';
 import Carousel from '../components/Carousel';
 import { Container, Row, Col } from 'react-bootstrap';
 import '../styling/about.css';
+import { useEffect } from 'react';
 
 const About = () => {
+  useEffect(() => {
+    document.title = 'Super Sonic Octopus About';
+  });
+
   return (
     <Container id="about-container">
       <Row id="band-about">

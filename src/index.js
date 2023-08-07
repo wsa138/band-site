@@ -8,7 +8,7 @@ import TagManager from 'react-gtm-module';
 const tagManagerArgs = {
   gtmId: 'GTM-MHPDGLH',
   dataLayer: {
-    name: 'Super Sonic Octopus',
+    siteName: 'Super Sonic Octopus',
   },
 };
 
