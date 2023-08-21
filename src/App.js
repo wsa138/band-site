@@ -13,10 +13,42 @@ function App() {
       <NavBar />
       <div id="pages-container">
         <Routes>
-          <Route path="/" element={<Home />}></Route>
-          <Route path="about" element={<About />}></Route>
-          <Route path="music" element={<Music />}></Route>
-          <Route path="contact" element={<Contact />}></Route>
+          <Route
+            path="/"
+            render={({ location }) => {
+              window.ga('set', 'page', location.pathname + location.search);
+              window.ga('send', 'pageview');
+              return null;
+            }}
+            element={<Home />}
+          ></Route>
+          <Route
+            path="about"
+            render={({ location }) => {
+              window.ga('set', 'page', location.pathname + location.search);
+              window.ga('send', 'pageview');
+              return null;
+            }}
+            element={<About />}
+          ></Route>
+          <Route
+            path="music"
+            render={({ location }) => {
+              window.ga('set', 'page', location.pathname + location.search);
+              window.ga('send', 'pageview');
+              return null;
+            }}
+            element={<Music />}
+          ></Route>
+          <Route
+            path="contact"
+            render={({ location }) => {
+              window.ga('set', 'page', location.pathname + location.search);
+              window.ga('send', 'pageview');
+              return null;
+            }}
+            element={<Contact />}
+          ></Route>
         </Routes>
       </div>
       <FooterNav />
