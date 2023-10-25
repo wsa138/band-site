@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.680fd684.css",
-    "main.js": "/static/js/main.c150e951.js",
-    "static/media/SSO-KANALOA.jpg": "/static/media/SSO-KANALOA.ae58347088cc4984760c.jpg",
+    "main.js": "/static/js/main.cd5bc9b7.js",
     "static/media/cosmicoutlawvid.mov": "/static/media/cosmicoutlawvid.b703e382fadb5009a9ce.mov",
-    "static/media/SSO-Polaris.jpg": "/static/media/SSO-Polaris.11fb4c4ac5f43542fdd1.jpg",
-    "static/media/SSO-COSMIC-OUTLAW.jpg": "/static/media/SSO-COSMIC-OUTLAW.75810bf04b609a59c636.jpg",
+    "static/media/CosmicOutlawArt.jpg": "/static/media/CosmicOutlawArt.7edfb4c84872cd370ea8.jpg",
+    "static/media/KanaloaArt.jpg": "/static/media/KanaloaArt.cc3fbc1010537b751f63.jpg",
+    "static/media/PolarisArt.jpg": "/static/media/PolarisArt.edebb34b42e9ca9dd306.jpg",
     "static/media/age-of-the-octopus.jpg": "/static/media/age-of-the-octopus.11b0d2048087c9124e6a.jpg",
     "static/media/John2.jpg": "/static/media/John2.c6a851b8536a559fb488.jpg",
     "static/media/Joe3.jpg": "/static/media/Joe3.541c3723bc1b849d203b.jpg",
@@ -18,10 +18,10 @@
     "static/media/Billy3.jpg": "/static/media/Billy3.3a001d58b3ce03475b96.jpg",
     "index.html": "/index.html",
     "main.680fd684.css.map": "/static/css/main.680fd684.css.map",
-    "main.c150e951.js.map": "/static/js/main.c150e951.js.map"
+    "main.cd5bc9b7.js.map": "/static/js/main.cd5bc9b7.js.map"
   },
   "entrypoints": [
     "static/css/main.680fd684.css",
-    "static/js/main.c150e951.js"
+    "static/js/main.cd5bc9b7.js"
   ]
 }
