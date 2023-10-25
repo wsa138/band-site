@@ -1,7 +1,7 @@
 import ageAlbum from '../images/age-of-the-octopus.jpg';
-import cosmicArt from '../images/SSO-COSMIC-OUTLAW.jpg';
-import kanaloaArt from '../images/SSO-KANALOA.jpg';
-import polarisArt from '../images/SSO-Polaris.jpg';
+import cosmicArt from '../images/CosmicOutlawArt.jpg';
+import kanaloaArt from '../images/KanaloaArt.jpg';
+import polarisArt from '../images/PolarisArt.jpg';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
 const MusicCard = () => {
@@ -34,7 +34,7 @@ const MusicCard = () => {
 
   const createCards = cardArr.map((card) => {
     return (
-      <Col md={6} sm={12} className="music-card">
+      <Col md={6} sm={12} className="music-card" key={card.name}>
         <a href={card.link} target="blank">
           <Image
             width="300px"
