@@ -32,11 +32,20 @@ const MusicCard = () => {
     },
   ];
 
+  const handleDataLayer = (clickName) => {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: 'musicClick',
+      clickText: clickName,
+    });
+  };
+
   const createCards = cardArr.map((card) => {
     return (
       <Col md={6} sm={12} className="music-card" key={card.name}>
         <a href={card.link} target="blank">
           <Image
+            onClick={() => handleDataLayer(card.name)}
             width="300px"
             thumbnail
             src={card.art}
