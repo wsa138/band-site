@@ -16,25 +16,25 @@ const Carousel = () => {
     {
       img: John2,
       imgTwo: John3,
-      member: 'John Swikata',
+      member: 'John',
       about: `John mastered the science of sound and discovered that his bass could create ripples in the fabric of space-time, allowing him to explore the cosmos. He used his skills to push the boundaries of what was possible and create a new form of cosmic music.`,
     },
     {
       img: Joe2,
       imgTwo: Joe3,
-      member: 'Joe Blau',
+      member: 'Joe',
       about: `Joe's love for sound and physics led him to discover a way to create interdimensional portals with his drumming. He explored the mysteries of space and time, using sound to travel to distant worlds and meet beings from other dimensions. With every beat of his drums, Joe pushed the boundaries of what was possible, using sound to navigate the universe and beyond.`,
     },
     {
       img: Mike2,
       imgTwo: Mike3,
-      member: 'Mike Robbins',
+      member: 'Mike',
       about: `Mike's fascination with the physics of sound led him to discover interdimensional travel through his guitar playing. He explored the universe and met wondrous beings, using his music to bridge the gap between worlds and unlock its secrets. With every riff and solo, Mike continued to push the boundaries of what was possible.`,
     },
     {
       img: Billy2,
       imgTwo: Billy3,
-      member: 'Billy Addesso',
+      member: 'Billy',
       about: `Billy created a guitar that translated the radiation of celestial bodies into music. His cosmic guitar connected humanity to the universe, taking him on a journey through the stars and inspiring others to explore the mysteries of the cosmos.`,
     },
   ];

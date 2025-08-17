@@ -1,5 +1,6 @@
 import '../styling/home.css';
 import bandVidMov from '../images/cosmicoutlawvid.mov';
+import trashArt from '../images/trashphoto.png'
 import { useEffect } from 'react';
 
 const Home = () => {

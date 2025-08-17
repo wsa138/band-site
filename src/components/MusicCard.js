@@ -2,24 +2,31 @@ import ageAlbum from '../images/age-of-the-octopus.jpg';
 import cosmicArt from '../images/CosmicOutlawArt.jpg';
 import kanaloaArt from '../images/KanaloaArt.jpg';
 import polarisArt from '../images/PolarisArt.jpg';
+import trashArt from '../images/trashphoto.png';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
 const MusicCard = () => {
   const cardArr = [
     {
-      name: 'Cosmic Outlaw (Single)',
+      name: 'Trash In The Hamptons',
+      link: 'https://open.spotify.com/artist/20OK0k4WgurVGcnzKqctmP',
+      art: trashArt,
+      description: 'Trash In The Hamptons single artwork',
+    },
+    {
+      name: 'Cosmic Outlaw',
       link: 'https://open.spotify.com/track/4fcIymQJLJkxu4QlnpcvdJ',
       art: cosmicArt,
       description: 'Cosmic Outlaw single artwork',
     },
     {
-      name: 'Kanaloa (Single)',
+      name: 'Kanaloa',
       link: 'https://open.spotify.com/track/3kfDz05GkqYKSMhYFnwXbr',
       art: kanaloaArt,
       description: 'Kanaloa single artwork',
     },
     {
-      name: 'Polaris (Single)',
+      name: 'Polaris',
       link: 'https://open.spotify.com/track/0NGXp3WXrCxyB1qb5G9HPU',
       art: polarisArt,
       description: 'Polaris single artwork',
