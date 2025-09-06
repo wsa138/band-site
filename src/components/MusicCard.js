@@ -9,7 +9,7 @@ const MusicCard = () => {
   const cardArr = [
     {
       name: "Trash In The Hamptons",
-      link: "https://www.youtube.com/watch?v=u4MlP1_Bg-Q",
+      link: "https://open.spotify.com/album/2pCxR5Ju4a22gmleHQdGm4",
       art: trashArt,
       description: "Trash In The Hamptons single artwork",
     },
